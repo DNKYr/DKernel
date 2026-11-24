@@ -1,0 +1,3 @@
+--target=i686-elf
+-ffreestanding
+-std=gnu99
